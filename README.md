@@ -1,7 +1,7 @@
 # Agendamento-dentista-ES-
 Trabalho de engenharia de software,2019/2,Professor(a):Leonardo Alves
 
-- Parte de requisitos: 
+Parte de requisitos: 
  
 1-Visual: tela simples com um calendário para a secretária(o), onde com um clique no dia escolhido e hora marcada(que apresenta um espaço), podemos adicionar usuários ou clientes(seu nome,telefone e dentista associado ao cliente), em um campo do tipo formulário, de tal forma, que criamos em outra tela, que será vista apenas pelo dentista o agendamento de todos seus clientes em um mês ou semana em um horário demarcado.
 
