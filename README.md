@@ -1,4 +1,9 @@
-Alunos: 
+Trabalho de engenharia de software 2019/2
+
+Professor(a): Leonardo Alves.
+
+Integrantes do grupo:
+
 Milton Alexandre Souza Demarchi
 
 Rafael Bueno Pires - 201600770
@@ -23,7 +28,7 @@ Requisitos:
 os dados relativos aos eventos ficam atrelados e armazenados a uma conta de email, bastando apenas realizar as operações de criação, edição e remoção usando a API.
 
 Orçamento do serviço:
-- Orçamento: 2355,00.
+- Orçamento total: 2355,00.
 - Hospedagem – 100,00/mês
 - Domínio – 50,00/ano
 - Programador (Node.js): Total = 2205,00
