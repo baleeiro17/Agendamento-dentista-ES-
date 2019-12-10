@@ -1,7 +1,11 @@
-Alunos: Milton Alexandre Souza Demarchi.
-Rafael Bueno Pires - 201600770.
-Marcos Aurelio Ribeiro Do Amaral - 201600757.
-Lucas Baleeiro Dominato Silveira - 201618264.
+Alunos: 
+Milton Alexandre Souza Demarchi
+
+Rafael Bueno Pires - 201600770
+
+Marcos Aurelio Ribeiro Do Amaral - 201600757
+
+Lucas Baleeiro Dominato Silveira - 201618264
 
 
 
