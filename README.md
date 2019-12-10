@@ -18,15 +18,16 @@ Requisitos:
 - Gargalo: O gargalo identificado foi a necessidade de se implementar toda a lógica de backend da estrutura do calendário, sendo a solução encontrada usar uma API pronta fornecida pelo Google. A vantagem deste método é que além de usar uma solução já pronta,
 os dados relativos aos eventos ficam atrelados e armazenados a uma conta de email, bastando apenas realizar as operações de criação, edição e remoção usando a API.
 
+Orçamento do serviço:
+- Orçamento: 2355,00.
+- Hospedagem – 100,00/mês
+- Domínio – 50,00/ano
+- Programador (Node.js): Total = 2205,00
+- Total de horas previstas = 74 horas
+- 1 ponto de função (Node.js) = R$ 45,00
+- 5 Telas – Complexidade Baixa(2 pontos de função) - 10 pontos de função – R$ 450,00 – 10 horas
+- Funcionalidades - Complexidade Baixa(2 pontos de função)– 14 pontos de função – R$ 630,00 – 14 horas
+- Implementação do interfaceamento com a API do Google - Complexidade Média(5pontos de função) – 25 pontos de função - R$ 1125,00 – 50 horas
+- Mensalidade = 90,00
 
-Orçamento: 2355,00
-Hospedagem – 100,00/mês
-Domínio – 50,00/ano
-Programador (Node.js): Total = 2205,00
-Total de horas previstas = 74 horas
-1 ponto de função (Node.js) = R$ 45,00
-5 Telas – Complexidade Baixa(2 pontos de função) - 10 pontos de função – R$ 450,00 – 10 horas
-Funcionalidades - Complexidade Baixa(2 pontos de função)– 14 pontos de função – R$ 630,00 – 14 horas
-Implementação do interfaceamento com a API do Google - Complexidade Média(5pontos de função) – 25 pontos de função - R$ 1125,00 – 50 horas
-Mensalidade = 90,00
-Telas: https://marvelapp.com/1jafi38g
+Telas do serviço: https://marvelapp.com/1jafi38g
