@@ -1,7 +1,7 @@
-Alunos: Milton Alexandre Souza Demarchi -
-Rafael Bueno Pires - 201600770
-Marcos Aurelio Ribeiro Do Amaral - 201600757
-Lucas Baleeiro Dominato Silveira - 201618264
+Alunos: Milton Alexandre Souza Demarchi.
+Rafael Bueno Pires - 201600770.
+Marcos Aurelio Ribeiro Do Amaral - 201600757.
+Lucas Baleeiro Dominato Silveira - 201618264.
 
 
 
@@ -27,7 +27,8 @@ Orçamento do serviço:
 - 1 ponto de função (Node.js) = R$ 45,00
 - 5 Telas – Complexidade Baixa(2 pontos de função) - 10 pontos de função – R$ 450,00 – 10 horas
 - Funcionalidades - Complexidade Baixa(2 pontos de função)– 14 pontos de função – R$ 630,00 – 14 horas
-- Implementação do interfaceamento com a API do Google - Complexidade Média(5pontos de função) – 25 pontos de função - R$ 1125,00 – 50 horas
+- Implementação do interfaceamento com a API do Google - Complexidade Média(5 pontos de função) – 25 pontos de função - R$ 1125,00 – 50 horas
+- total de pontos de função: 49 pontos de função.
 - Mensalidade = 90,00
 
 Telas do serviço: https://marvelapp.com/1jafi38g
